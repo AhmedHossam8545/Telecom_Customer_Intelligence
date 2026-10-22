@@ -1,0 +1,3 @@
+-- Replaced by numbered analytics files in this folder.
+-- Run them in Supabase SQL Editor or notebooks/05_sql_analytics.ipynb
+-- after .env points at the Supabase database.
